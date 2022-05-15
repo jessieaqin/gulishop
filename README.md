@@ -22,5 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-###项目说明书：一般都是用来告诉用户 我这个项目如何启动 如何打包 如何使用eslint
